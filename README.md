@@ -26,10 +26,6 @@ The mechanical files include native FreeCAD projects (`.FCStd`), neutral CAD exp
 
 - [Turbo adapter CAD](cad/turbo-adapters/)
 - [Transmission actuation CAD](cad/transmission-actuation/)
-- [Unlabeled earlier designs](cad/legacy-unlabeled/) — original names preserved rather than assuming what each file represents
-
-![CAD rendering generated from the servo-bracket STL](assets/previews/servo-bracket-cad.png)
-*Servo-bracket preview generated from the original STL geometry.*
 
 ## Electronics and transmission control
 
