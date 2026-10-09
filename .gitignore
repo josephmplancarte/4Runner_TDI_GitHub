@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+__MACOSX/
+
+# FreeCAD backup/autosave files (keep local)
+*.FCBak
+*.FCStd1
+*.FCStd2
+*.FCStd3
+
+# KiCad user machine settings and temporary files
+*.kicad_prl
+*-backups/
+*.lck
+
+# Local credentials and generated logs
+.env
+.env.*
+secrets.*
+*.log
